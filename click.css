@@ -1,0 +1,19 @@
+.btn {
+    background-color: red; 
+  border-radius: 15px;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px;
+    cursor: pointer;
+    transition: 10s ease ease-in-out;
+  }
+  
+  .btn:hover {
+    background-color: rgb(246, 70, 70); /* Dark green */
+    transition: scale(1.5);
+  }
+  
